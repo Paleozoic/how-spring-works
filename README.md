@@ -21,4 +21,4 @@ Coder needs to understand the lifecycle of objects.
 原型模式的bean不受生命周期的约束。不遵循计划生育的黑户IoC管不了。
 
 # 说说Ioc
-IoC全称Inversion of Control（控制反转），
+IoC全称Inversion of Control（控制反转）， 
